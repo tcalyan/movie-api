@@ -9,5 +9,5 @@ Bu api'nin amacı, omdbapi API kullanarak filmler üzerinde işlem yapabileceği
 
 ### Testing
 
-
+https://www.getpostman.com/collections/94e9c4d36982aaa18584
 You can open the collection and test with different parameters.
