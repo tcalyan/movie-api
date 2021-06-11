@@ -1,5 +1,5 @@
 # movie-api
-Bu api'nin amacı, omdbapi API kullanarak filmler üzerinde işlem yapabileceğiniz bir REST API hazırlamaktır.
+The purpose of this api is to prepare a REST API where you can manipulate movies using the omdbapi API.
 ## Setup & Run
 - Firstly please make sure that your postgresql db in running and configure .env file.
 ### Setup and build project environment
